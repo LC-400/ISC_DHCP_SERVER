@@ -1,0 +1,3 @@
+!#/bin/bash
+sudo cat /var/run/dhcpd.pid
+#useful for kill -15 (sigterm) PID if necessary

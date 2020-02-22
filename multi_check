@@ -1,0 +1,2 @@
+#!/bin/bash
+sudo dhcpd -t -T eth0
